@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+}
+main {
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+}
+nav {
+    width: 20%;
+    margin: 2em;
+    padding: 2em;
+    border: 1px solid black;
+    font-size: 2em;
+}
+section {
+    width: 80%;
+    margin: 2em;
+    padding: 2em;
+    border: 1px solid black;
+}
+p {
+    font-size: 1.2em;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+a:hover {
+    color: rgb(0,255,0);
+}
