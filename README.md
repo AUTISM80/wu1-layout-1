@@ -58,3 +58,24 @@ För att skapa en 2 spaltig layout så kan vi skriva följande i main.css
   section {
     width: 80%;
   }
+
+## GIT
+
+Som med allt annat vill vi spara vårt arbete på GIT.
+
+1. Surfa till github.com
+2. Klicka + och välj New repository
+3. Döp det till något relevant.
+4. Skapa
+5. Kopiera den stora klumpen text genom att trycka på iconen.
+6. Öppna powershell
+7. Navigera till din projektmapp.
+8. cd c:\code
+9. cd projektnamn
+10. Klistra in den stora text-klumpen från git
+11. Skriv du fel lösen/user, tryck pil upp och kör om git push -u origin master
+12. skriv git add .
+13. skriv git commit -m "meddelande"
+14. skriv git push
+
+Lycka till!
